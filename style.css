@@ -20,9 +20,15 @@
     padding: 0px;
 }
 
+main{
+    min-width: 400px;
+}
+
+
+
 html, body{
     font-family: var(--font1);
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(70, 70, 70);
     
 }
 
