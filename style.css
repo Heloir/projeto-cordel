@@ -20,26 +20,41 @@
     padding: 0px;
 }
 
-body{
+html, body{
     font-family: var(--font1);
     background-color: gray;
+    
+}
+
+article{
+    line-height: 2em;
+    padding-left: 40px;
+    font-family: var(--font3);
+    font-size: 4.5vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 header{
+
+    
     font-family: var(--font3);
     background-color: black;
     text-align: center;
-    padding: 70px;
+    padding-bottom: 100px;
+    
 }
 
 header > h1{
+    padding-top: 40px;
     font-weight: normal;
-    font-size: 150px;
+    font-size: 120px;
     font-family: var(--font2);
     color: white;
 }
 
 header > p{
+    
     font-size: 25px;
     color: white;
 }
