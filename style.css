@@ -41,12 +41,16 @@ article{
 
 header{
 
-    
+    transition-duration: 0.5s;
     font-family: var(--font3);
     background-color: black;
     text-align: center;
     padding-bottom: 100px;
     
+}
+
+header:hover{
+    padding-top: 50px;
 }
 
 header > h1{
@@ -56,7 +60,9 @@ header > h1{
     font-size: 120px;
     font-family: var(--font2);
     color: white;
+    
 }
+
 
 header > p{
     
@@ -67,12 +73,21 @@ header a{
     color: white;
     font-weight: bold;
     text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+header a:hover{
+    margin: 0px 0px 0px;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 article{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
     padding-right: 20px;
+    transition-duration: 0.5s;
 }
 
 article > p{
@@ -80,10 +95,6 @@ article > p{
     font-size: 40px;
     font-family: var(--font3);
 
-}
-
-header a:hover{
-    text-decoration: underline;
 }
 
 .poesia1{
