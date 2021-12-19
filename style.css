@@ -22,13 +22,12 @@
 
 html, body{
     font-family: var(--font1);
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
     
 }
 
 article{
     line-height: 2em;
-    padding-left: 40px;
     font-family: var(--font3);
     font-size: 4.5vw;
     padding-top: 10px;
@@ -37,7 +36,7 @@ article{
 
 header{
 
-    
+
     font-family: var(--font3);
     background-color: black;
     text-align: center;
@@ -46,6 +45,7 @@ header{
 }
 
 header > h1{
+    
     padding-top: 40px;
     font-weight: normal;
     font-size: 120px;
@@ -89,7 +89,7 @@ header a:hover{
     padding-right: 20px;
     padding-left: 20px;
     width: 400px;
-    background-color: rgba(51, 51, 51, 0.329);
+    background-color: rgba(255, 255, 255, 0.329);
     color: white;
 }
 
