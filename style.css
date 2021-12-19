@@ -21,28 +21,27 @@
 }
 
 main{
-    min-width: 400px;
+    min-width: 466px;
 }
 
 
 
 html, body{
     font-family: var(--font1);
-    background-color: rgb(70, 70, 70);
+    background-color: rgb(255, 255, 255);
     
 }
 
 article{
     line-height: 2em;
     font-family: var(--font3);
-    font-size: 4.5vw;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 header{
 
-
+    
     font-family: var(--font3);
     background-color: black;
     text-align: center;
@@ -73,6 +72,7 @@ article{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    padding-right: 20px;
 }
 
 article > p{
