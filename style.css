@@ -16,14 +16,13 @@
     --font3:'font2';
 }
 *{
+    max-width: none;
+    min-width: 100px;
     margin: 0px;
     padding: 0px;
 }
 
-main{
-    max-width: none;
-    min-width: 320px;
-}
+
 
 
 html, body{
