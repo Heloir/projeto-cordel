@@ -21,6 +21,7 @@
 }
 
 main{
+    max-width: none;
     min-width: 320px;
 }
 
