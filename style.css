@@ -121,13 +121,15 @@ article#img2{
 }
 
 footer{
-    text-align: center;
+    padding-top: 1.5vw;
     background-color: black;
-    padding: 0.5vw;
+    text-align: center;
+
 }
 
 footer > p{
-    font-size: 1.0vw;
+    padding-bottom: 0.5vw;
+    font-size: 1.5vw;
     color: white;
 }
 
