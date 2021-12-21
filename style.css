@@ -27,7 +27,7 @@
 
 html, body{
     font-family: var(--font1);
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     
 }
 
@@ -74,7 +74,8 @@ header a:hover{
     text-decoration: underline;
 }
 article{
-   
+    
+    background-color: royalblue;
     padding-bottom: 4vh;
     line-height: 2em;
     padding-left: 30px;
@@ -90,6 +91,7 @@ article > p{
 }
 
 .poesia1{
+    background-color: red;
     
     padding-top: 10vh;
     box-shadow: 1px 1px 1px black;
