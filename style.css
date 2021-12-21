@@ -71,7 +71,8 @@ header a:hover{
     text-decoration: underline;
 }
 article{
-    padding-bottom: 10vh;
+   
+    padding-bottom: 4vh;
     line-height: 2em;
     padding-left: 30px;
     padding-right: 20px;
@@ -80,7 +81,7 @@ article{
 
 article > p{
     line-height: 2em;
-    font-size: 3.5vw;
+    font-size: 3.2vw;
     font-family: var(--font3);
 
 }
