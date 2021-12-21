@@ -20,6 +20,10 @@
     padding: 0px;
 }
 
+main{
+    min-width: 466px;
+}
+
 
 html, body{
     font-family: var(--font1);
