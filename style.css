@@ -37,8 +37,8 @@ header{
     font-family: var(--font3);
     background-color: black;
     text-align: center;
-    padding: 3.4vw;
-    padding-top: 1.5vw;
+    padding: 5.4vh;
+    padding-top: 2.5vh;
     
 }
 
@@ -46,9 +46,9 @@ header{
 
 header > h1{
     
-    padding-top: 6.5vw;
+    padding-top: 4.5hv;
     font-weight: normal;
-    font-size: 9.5vw;
+    font-size: 10.5vw;
     font-family: var(--font2);
     color: white;
     
@@ -57,7 +57,7 @@ header > h1{
 
 header > p{
     
-    font-size: 2.5vw;
+    font-size: 4.5vh;
     color: white;
 }
 header a{
@@ -81,21 +81,22 @@ article{
 }
 
 article > p{
+    font-size: 3.5vh;
     line-height: 2em;
-    font-size: 3.2vw;
     font-family: var(--font3);
 
 }
 
 .poesia1{
-    
+
     padding-top: 10vh;
     box-shadow: 1px 1px 1px black;
 }
 .poesia1 > p{
-    padding-top: 12px;
+    padding-top: 2px;
     padding-right: 20px;
     padding-left: 20px;
+    padding-bottom: 10px;
     width: 50vw;
     
     background-color: rgba(255, 255, 255, 0.068);
